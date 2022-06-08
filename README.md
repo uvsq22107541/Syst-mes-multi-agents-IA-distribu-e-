@@ -1,1 +1,2 @@
-# Syst-mes-multi-agents-IA-distribu-e-
+#  Un système multi-agent (SMA) est un système composé d'un ensemble d'agents (un processus, un robot, un être humain, une fourmi etc.), actifs dans un certain environnement et interagissant selon certaines règles. Un agent est une entité caractérisée par le fait qu'elle est, au moins partiellement, autonome, ce qui exclut un pilotage centralisé du système global.
+# Objet de recherche en intelligence artificielle distribuée, les systèmes multi-agents constituent une possibilité intéressante de modélisation de sociétés humaines et animales, et ont à ce titre des champs d'application larges, allant jusqu'aux sciences humaines.
